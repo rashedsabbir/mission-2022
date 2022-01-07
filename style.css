@@ -14,11 +14,12 @@ h1{
     display: flex;
 }
 .half_width{
-    width: 50%;
-    padding: 5%;
+    width: 100%;
+    padding: 7%;
 }
 .half_width img{
     width: 70%;
+    
 }
 .link_button{
     text-decoration: none;
@@ -37,57 +38,60 @@ h2{
     font-family: 'Yeseva One', cursive;
 }
 
-.description img{
-    width: 50%;
+.description_area img{
+    width: 40%;
 }
-#mission{
+.mission{
     
     float: left;
-    width: 30%;
+    width: 26%;
     margin: 0 auto;
-    background-image: linear-gradient(orange, tomato);
-    background-color: orange;
-   
-    font-weight: 700;
+    background-color: rgb(237, 203, 238);
+    
+    padding: 25px;
+    font-weight: 100;
     border-radius: 5%;
 }
-#vission{
-    
-    width: 33%;
+.vission{
+    float: left;
+    width: 26%;
     margin: 0 auto;
-    background-image: linear-gradient(orange, tomato);
-    background-color: orange;
-    
-    font-weight: 700;
+    padding: 25px;
+    background-color: rgb(205, 235, 204);
+    font-weight: 100;
     border-radius: 5%;
 }
-#goals{
+.goals{
     float: right;
-    width: 34%;
-    
+    width: 26%;
     margin: 0 auto;
-    background-image: linear-gradient(orange, tomato);
-    background-color: orange;
+    padding: 25px;
     
-    font-weight: 700;
+    background-color: rgb(231, 224, 211);
+    font-weight: 100;
     border-radius: 5%;
 }
 .description_area{
     width: 80%;
-    
-   
+    display: flex;
     margin: 0 auto;
+    border: 5px;
+}
+.develop{
+    display: block;
+
     
-      background-color:#FFA500 ;
+        
+    width: 120%;
+    font-size: 20px;
+        padding-left: 10px;
+        
     
 }
-.description{
-    width: 32%;
-    height: 300px;
-    margin-left: .5%;
-    margin-right: .5%;
+.develop img{
+    max-width: 60%;
+padding: 25px;
     
-    }
-    
+}
     
 
