@@ -1,11 +1,11 @@
-body{
-    font-family: 'Rasa', serif;
-font-family: 'Yeseva One', cursive;
-}
+
 h1{
     font-size: 50px;
-    border-left: 3px solid orange;
+    border-left: 5px solid orangered;
     padding: 10px;
+    font-family: 'Rasa', serif;
+    font-family: 'Yeseva One', cursive;
+    
 }
 .orange_color{
     color: orange;
@@ -28,3 +28,66 @@ h1{
     font-weight: 700;
     border-radius: 5%;
 }
+.mission_2022{
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    font-family: 'Rasa', serif;
+    font-family: 'Yeseva One', cursive;
+}
+
+.description img{
+    width: 50%;
+}
+#mission{
+    
+    float: left;
+    width: 30%;
+    margin: 0 auto;
+    background-image: linear-gradient(orange, tomato);
+    background-color: orange;
+   
+    font-weight: 700;
+    border-radius: 5%;
+}
+#vission{
+    
+    width: 33%;
+    margin: 0 auto;
+    background-image: linear-gradient(orange, tomato);
+    background-color: orange;
+    
+    font-weight: 700;
+    border-radius: 5%;
+}
+#goals{
+    float: right;
+    width: 34%;
+    
+    margin: 0 auto;
+    background-image: linear-gradient(orange, tomato);
+    background-color: orange;
+    
+    font-weight: 700;
+    border-radius: 5%;
+}
+.description_area{
+    width: 80%;
+    
+   
+    margin: 0 auto;
+    
+      background-color:#FFA500 ;
+    
+}
+.description{
+    width: 32%;
+    height: 300px;
+    margin-left: .5%;
+    margin-right: .5%;
+    
+    }
+    
+    
+
