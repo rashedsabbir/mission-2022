@@ -33,7 +33,7 @@ h1{
     font-weight: 700;
     border-radius: 5%;
 }
-.mission_2022{
+#mission_2022{
     font-size: 40px;
     text-align: center;
 }
@@ -113,10 +113,32 @@ h2{
   .forth_banner{
     float: left;
     width: 170%;
-    font-size: 15px;
     padding-left: 15%;
     padding-top: 8%;
     padding-right: 10%;
   }
+  .fifth_banner{
+    float: left;
+    width: 170%;
+    font-size: 15px;
+    padding-left: 7%;
+    padding-right: 10%;
+    padding-top: 3%;
     
+     
+}
+.fifth_banner_img img{
+
+  width: 300px;
+  float: left;
+}
+.fifth_banner_img{
+    max-width: 50%;
+    padding-top: 3%;
+    padding-left: 20%;
+    
+}
+#fifth_text{
+    font-size: 35px;
+}
 
