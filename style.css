@@ -12,20 +12,24 @@ h1{
 }
 .flexible_container{
     display: flex;
+    padding-bottom: 2%;
 }
 .half_width{
     width: 100%;
-    padding: 7%;
+    padding-left: 10%;
+    
 }
 .half_width img{
     width: 70%;
+    
+    
     
 }
 .link_button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     background-color: orange;
-    padding: 10px 40px;
+    padding: 10px 20px;
     font-weight: 700;
     border-radius: 5%;
 }
@@ -77,21 +81,42 @@ h2{
     margin: 0 auto;
     border: 5px;
 }
-.develop{
-    display: block;
+.third_banner{
+    float: left;
+    width: 170%;
+    font-size: 15px;
+    padding-left: 3%;
+    padding-right: 15%;
+    padding-top: 8%;
+     
+}
+.third_banner_img img{
 
-    
-        
-    width: 120%;
-    font-size: 20px;
-        padding-left: 10px;
-        
-    
+  width: 300px;
+  float: left;
 }
-.develop img{
-    max-width: 60%;
-padding: 25px;
+.third_banner_img{
     
+    padding-top: 5%;
+    padding-left: 15%;
 }
+.forth_banner_img img{
+
+    width: 300px;
+    float: right;
+  }
+.forth_banner_img{
+      
+      padding-top: 5%;
+      padding-right: 15%;
+  }
+  .forth_banner{
+    float: left;
+    width: 170%;
+    font-size: 15px;
+    padding-left: 15%;
+    padding-top: 8%;
+    padding-right: 10%;
+  }
     
 
