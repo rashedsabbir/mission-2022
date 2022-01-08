@@ -21,6 +21,7 @@ h1{
 }
 .half_width img{
     width: 70%;
+    padding-top: 8%;
     
     
     
@@ -147,8 +148,9 @@ footer {
   bottom: 0;
   width: 100%;
   height: 150px;
+
   background-color: black;
-  
+
   color: white;
   text-align: center;
   font-family: 'Rasa', serif;
